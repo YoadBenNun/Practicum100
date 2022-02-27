@@ -1,8 +1,8 @@
 # Machine learning, efficiency and gold recovery from ores
 
 ## Task Statement
-Zyfra is a leading provider of efficient solutions for a variety of industries.
-This study aims to develop a model that can predict the amount of gold recovered from gold ores.
+Zyfra is a leading provider of efficient solutions for a variety of industries.<br>
+This study aims to develop a model that can predict the amount of gold recovered from gold ores.<br>
 The model will help to optimize the production and eliminate unprofitable parameters.
 
 
@@ -54,7 +54,7 @@ Possible values for `[parameter_type]`:
 
 
 ## Summary
-In this project, we studied data provided by a metal mining company to train a model that would predict the most efficient process to extract gold out of ores.
+In this project, we studied data provided by a metal mining company to train a model that would predict the most efficient process to extract gold out of ores.<br>
 Based on data collected by IoT sensors along the production line we can estimate the concentrations and amounts of different substances and techniques needed to extract the most gold out of the ores.
 
 ### Challenges
