@@ -1,3 +1,8 @@
+# Projects Show Reel
+Examples of projects done during the Data Science Course at Practicum100 by Yandex.
+
+-----
+
 ## 💡 Machine learning, efficiency and gold recovery from ores Project:
 In this project, we studied data provided by a metal mining company to train a model that would predict the most efficient process to extract gold out of ores.
 Based on data collected by IoT sensors along the production line we can estimate the concentrations and amounts of different substances and techniques needed to extract the most gold out of the ores.
@@ -11,9 +16,6 @@ There were quite a few challenges in this project regarding data preparation and
 - Due to a complex production process, our metric of evaluation had to be custom-made to evaluate the model’s performance.
 
 ------
-
-# Projects Show Reel
-Examples of projects done during the Data Science Course at Practicum100 by Yandex.
 
 ## 💡 Telecom Churn Project:
 In this project, we studied data provided by a telecom company to train a model that would predict the churn of clients. The company would like to know in advance which customer is more likely to churn so they could offer benefits to encourage the customer to stay active, a binary classification problem.
